@@ -8,7 +8,7 @@ on:
 env:
   pack-file: "pack.toml"
   default-release-modrinth: "true"
-  default-release-curseforge: "false"
+  default-release-curseforge: "true"
 
 jobs:
   parse-current-modpacks:
@@ -70,7 +70,7 @@ jobs:
     steps:
       - name: Perform Release with Release Please
         id: release-please
-        uses: googleapis/release-please-action@v4
+        uses: google-github-actions/release-please-action@v4
         with:
           monorepo-tags: true
           path: ${{ matrix.modpack }}

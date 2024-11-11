@@ -9,10 +9,10 @@ inputs:
     required: true
   upload-modrinth:
     description: "Should the Modpack Be Uploaded to Modrinth"
-    required: true
+    required: false
   upload-curse:
     description: "Should the Modpack Be Uploaded to CurseForge"
-    required: true
+    required: false
 
   MODRINTH_TOKEN:
     required: false

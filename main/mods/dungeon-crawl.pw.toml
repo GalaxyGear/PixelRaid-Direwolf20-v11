@@ -1,0 +1,13 @@
+name = "Dungeon Crawl"
+filename = "DungeonCrawl-NeoForge-1.21-2.3.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12e4130273d8ca01b35b330ca667313d81b0a57f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5561178
+project-id = 324973

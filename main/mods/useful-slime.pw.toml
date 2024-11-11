@@ -1,0 +1,13 @@
+name = "Useful Slime (NeoForge/Fabric)"
+filename = "UsefulSlime-neoforge-1.21-1.11.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "192c4bd00501ba2ef907d5536df147a3848a06a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5666949
+project-id = 417702

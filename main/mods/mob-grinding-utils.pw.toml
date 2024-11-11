@@ -1,0 +1,13 @@
+name = "Mob Grinding Utils"
+filename = "mob_grinding_utils-1.1.6+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f47964a62657c122d5e5d90edea9af2ee0b760e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5823199
+project-id = 254241

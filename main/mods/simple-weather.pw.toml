@@ -1,0 +1,13 @@
+name = "Simple Weather"
+filename = "simple_weather-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a32c5a6476e2285ec0a7ac92fe694e5e6976c271"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5694489
+project-id = 983390

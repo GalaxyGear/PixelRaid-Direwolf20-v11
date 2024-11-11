@@ -1,0 +1,13 @@
+name = "Rhino"
+filename = "rhino-2101.2.5-build.54.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d82e3263652302d0b2a4dd3b8cefc72cfc7175fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5691686
+project-id = 416294

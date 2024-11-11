@@ -1,0 +1,13 @@
+name = "The Magic Doorknob"
+filename = "MagicDoorknob-1.21.1-1.1.0.1948.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fb66f60ca0157a1dd27fcc70df201be9cbe2392"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5851484
+project-id = 364139

@@ -1,0 +1,17 @@
+{
+  "clientId": 1284603926225752125,
+  "enabled": true,
+  "screenEvent": true,
+  "clientJoinEvent": false,
+  "logState": true,
+  "buttons": [
+    {
+      "label": "PixelRaid Discord",
+      "url": "https://discord.gg/Hqkt9rf9yT"
+    },
+    {
+      "label": "Modpack Download",
+      "url": "https://www.curseforge.com/minecraft/modpacks/pixelraid-dw-1-21"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+############################
+## Fargos Talismans Config #
+## Server-side settings    #
+############################
+#
+#Each talisman can be enabled or disabled. Defaults to enabled.
+#
+#Whether air_talisman is enabled on the server
+air_talisman = true
+#Whether amethyst_talisman is enabled on the server
+amethyst_talisman = true
+#Whether apple_talisman is enabled on the server
+apple_talisman = true
+#Whether architect_talisman is enabled on the server
+architect_talisman = true
+#Whether arctic_talisman is enabled on the server
+arctic_talisman = true
+#Whether battle_talisman is enabled on the server
+battle_talisman = true
+#Whether blaze_talisman is enabled on the server
+blaze_talisman = true
+#Whether cactus_talisman is enabled on the server
+cactus_talisman = true
+#Whether copper_talisman is enabled on the server
+copper_talisman = true
+#Whether creeper_talisman is enabled on the server
+creeper_talisman = true
+#Whether diamond_talisman is enabled on the server
+diamond_talisman = true
+#Whether dragon_talisman is enabled on the server
+dragon_talisman = true
+#Whether earth_talisman is enabled on the server
+earth_talisman = true
+#Whether emerald_talisman is enabled on the server
+emerald_talisman = true
+#Whether enchanting_talisman is enabled on the server
+enchanting_talisman = true
+#Whether enderman_talisman is enabled on the server
+enderman_talisman = true
+#Whether fire_talisman is enabled on the server
+fire_talisman = true
+#Whether ghast_talisman is enabled on the server
+ghast_talisman = true
+#Whether glowstone_talisman is enabled on the server
+glowstone_talisman = true
+#Whether gold_talisman is enabled on the server
+gold_talisman = true
+#Whether iron_golem_talisman is enabled on the server
+iron_golem_talisman = true
+#Whether iron_talisman is enabled on the server
+iron_talisman = true
+#Whether lapis_talisman is enabled on the server
+lapis_talisman = true
+#Whether librarian_talisman is enabled on the server
+librarian_talisman = true
+#Whether mooshroom_talisman is enabled on the server
+mooshroom_talisman = true
+#Whether nether_star_talisman is enabled on the server
+nether_star_talisman = true
+#Whether obsidian_talisman is enabled on the server
+obsidian_talisman = true
+#Whether pickaxe_talisman is enabled on the server
+pickaxe_talisman = true
+#Whether redstone_talisman is enabled on the server
+redstone_talisman = true
+#Whether shulker_talisman is enabled on the server
+shulker_talisman = true
+#Whether skeleton_talisman is enabled on the server
+skeleton_talisman = true
+#Whether spectral_talisman is enabled on the server
+spectral_talisman = true
+#Whether thorny_talisman is enabled on the server
+thorny_talisman = true
+#Whether undying_talisman is enabled on the server
+undying_talisman = true
+#Whether vampiric_talisman is enabled on the server
+vampiric_talisman = true
+#Whether vindicator_talisman is enabled on the server
+vindicator_talisman = true
+#Whether void_talisman is enabled on the server
+void_talisman = true
+#Whether water_talisman is enabled on the server
+water_talisman = true
+#Whether witch_talisman is enabled on the server
+witch_talisman = true
+#Whether wither_talisman is enabled on the server
+wither_talisman = true
+#Whether zombie_talisman is enabled on the server
+zombie_talisman = true
+#Whether blinded_talisman is enabled on the server
+blinded_talisman = true
+#Whether day_talisman is enabled on the server
+day_talisman = true
+#Whether fatigued_talisman is enabled on the server
+fatigued_talisman = true
+#Whether fired_talisman is enabled on the server
+fired_talisman = true
+#Whether full_moon_talisman is enabled on the server
+full_moon_talisman = true
+#Whether nauseated_talisman is enabled on the server
+nauseated_talisman = true
+#Whether night_talisman is enabled on the server
+night_talisman = true
+#Whether poisoned_talisman is enabled on the server
+poisoned_talisman = true
+#Whether rain_talisman is enabled on the server
+rain_talisman = true
+#Whether slowed_talisman is enabled on the server
+slowed_talisman = true
+#Whether snowy_talisman is enabled on the server
+snowy_talisman = true
+#Whether storm_talisman is enabled on the server
+storm_talisman = true
+#Whether sun_talisman is enabled on the server
+sun_talisman = true
+#Whether true_sun_talisman is enabled on the server
+true_sun_talisman = true
+#Whether weakened_talisman is enabled on the server
+weakened_talisman = true
+#Whether withered_talisman is enabled on the server
+withered_talisman = true

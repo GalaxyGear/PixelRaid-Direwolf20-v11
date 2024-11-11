@@ -1,0 +1,13 @@
+name = "Tool Kit"
+filename = "ToolKit-neoforge-87.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d10a4272593e4d893df3fb15ff9acf8e86f66d2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5521502
+project-id = 324888

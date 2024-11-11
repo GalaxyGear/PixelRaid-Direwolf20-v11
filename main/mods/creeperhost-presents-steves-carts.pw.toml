@@ -1,0 +1,13 @@
+name = "CreeperHost Presents Steve's Carts"
+filename = "stevescarts-1.21-1.2.11-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0af1a6dc01a84e30412ac133abdb6c564bb96f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5871046
+project-id = 551524

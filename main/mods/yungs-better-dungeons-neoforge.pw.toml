@@ -1,0 +1,13 @@
+name = "YUNG's Better Dungeons (NeoForge)"
+filename = "YungsBetterDungeons-1.21.1-NeoForge-5.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fd781144efda34bda70fddd463127fbc2c11f66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5812214
+project-id = 1015112

@@ -1,0 +1,13 @@
+name = "PixelRaid | Direwolf20 v11"
+author = "PixelRaid Development Team"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f208e6d210495e6d5996f2e20f1549917c24baa75f840519203b8e146d8e39f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.74"

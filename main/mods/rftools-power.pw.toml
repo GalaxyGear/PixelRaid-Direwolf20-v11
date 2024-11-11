@@ -1,0 +1,13 @@
+name = "RFTools Power"
+filename = "rftoolspower-1.21-7.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5cf72c8951eb932862f333112fd4fbb9507483af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5830673
+project-id = 290209

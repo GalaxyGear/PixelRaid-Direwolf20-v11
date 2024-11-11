@@ -1,0 +1,13 @@
+name = "Modular Routers"
+filename = "modular-routers-13.1.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d93b7e71faced724e94444a415c7afffd9fad94f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5857393
+project-id = 250294

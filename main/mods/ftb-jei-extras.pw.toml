@@ -1,0 +1,13 @@
+name = "FTB JEI Extras"
+filename = "ftbjeiextras-21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91d31cfb1f310059cb701144e1ed030c4f288a81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5880756
+project-id = 1103259

@@ -1,0 +1,13 @@
+name = "SolarGeneration"
+filename = "SolarGeneration-1.21-7.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e8023dd82941f5cb69331cdd16469bd7950fdd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5491755
+project-id = 336538

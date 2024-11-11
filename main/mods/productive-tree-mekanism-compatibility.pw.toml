@@ -1,0 +1,13 @@
+name = "Productive Tree + Mekanism Compatibility"
+filename = "pmc-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d5ebd6e64546afec8ea00d4a35196fc77bc5547"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5695469
+project-id = 1096962

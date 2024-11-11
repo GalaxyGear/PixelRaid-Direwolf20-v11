@@ -1,0 +1,13 @@
+name = "Mekanism Unleashed"
+filename = "mekanism_unleashed-1.21-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8f78575d107c43ff616b044b1403f9661d9ef75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5615530
+project-id = 1072209

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "a0f74bb0b5067ffc63ac6f5407ea44457aa243da2e7d92128a65d98a8679cb29"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
@@ -122,7 +126,7 @@ hash = "2e503700977c7a56a56f9ebc2edc7a86e129178435dedf63c582c3b06e9de5ff"
 
 [[files]]
 file = "config/apothic_spawners.cfg"
-hash = "550875698ad437e5313ce088a21230633230a52ac386d56c72ddbf0adcfe89d3"
+hash = "5f199cd439356ae7f65159b55a76820ff4d843d870fa73bef9cbab2dc63ccc22"
 
 [[files]]
 file = "config/appflux-common.toml"
@@ -266,7 +270,7 @@ hash = "be4a5b77d5451f8824bf216e5b8634029e907177d35cb5b1ed1cec0f775a7cfc"
 
 [[files]]
 file = "config/ars_nouveau-server.toml"
-hash = "954b44c6fb52080eb00c77b607b08a04131964207a4a046dc6b3dbf0421e9cdb"
+hash = "8743281b8180ed50be6eea78d19972cfe4eaec8ad900fe24ebfa59df3786695b"
 
 [[files]]
 file = "config/ars_nouveau-startup.toml"
@@ -4120,7 +4124,7 @@ metafile = true
 
 [[files]]
 file = "mods/cottonly.pw.toml"
-hash = "0f8a6f11ff93d1d43128f98b3cde1f2501d3b9244ecf41a3d8ea950c1825e414"
+hash = "16ceccb55c34da2e21c848994bb9c97cdd6712eb1471f5df776013d92a3768b0"
 metafile = true
 
 [[files]]
@@ -4205,7 +4209,7 @@ metafile = true
 
 [[files]]
 file = "mods/eventslib.pw.toml"
-hash = "75418073761fbba1c937749a33e1ac4046a135710f462add3e5525154a5a5b15"
+hash = "2bfd204bc38cce6920aa1d8b9237dbbabd4f9e1b0357935d0f53e8e21f87b855"
 metafile = true
 
 [[files]]
@@ -4315,7 +4319,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-pack-companion.pw.toml"
-hash = "2a079e1fccdc9f6235e2d301a35a86949709a78ecf9c4f40075d48426cdd43ef"
+hash = "4c9faf446a2e7e09d5f6ca3a5156e493320549b16c60046d598902b07a113978"
 metafile = true
 
 [[files]]
@@ -4480,7 +4484,7 @@ metafile = true
 
 [[files]]
 file = "mods/jump-over-fences-forge.pw.toml"
-hash = "8727706635123311bdcbccaeade4653b1e54444f35d8d43e9ba479719961d87a"
+hash = "6c2e34b78930e458ddb134c78b33c6e2d3c8832f3ae2a9ac7394fb269da73320"
 metafile = true
 
 [[files]]
@@ -4540,7 +4544,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithosphere.pw.toml"
-hash = "16207e1527b1de89309166b966eeddf358c7c8a993cf42cae2cf0d10eb2e0146"
+hash = "3108a5fe56dfc6e0e0a1e81e11491d139c4c69a6f8d0b12f63cd1f72f249c3a5"
 metafile = true
 
 [[files]]
@@ -4605,7 +4609,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-unleashed.pw.toml"
-hash = "4caa0564715df3c717d0787e0ad41f074e3560a9640794d1084ead9a13b6b09f"
+hash = "b620670a66e6b773edf13fa9e0cd547fda3b6595f30792bbc366e529c8f6e531"
 metafile = true
 
 [[files]]
@@ -4924,7 +4928,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "71ad32244138cca4d0a82b9920ab8dd1d9f19aff54763cc90eb8367f940a37f0"
+hash = "6efadb43cf65cff2cb856f4fcada47847f3c01d9a26e8c5fd5f530de3d2d437f"
 metafile = true
 
 [[files]]
@@ -5064,7 +5068,7 @@ metafile = true
 
 [[files]]
 file = "mods/useful-slime.pw.toml"
-hash = "d2b391aef6ec2ddeb16cb46130c64ffcde34fafa723f277b59de3a418525a177"
+hash = "89605c1539de4460ae896a180a48ca186fae347f355ed7eeffd9c5909c416e6b"
 metafile = true
 
 [[files]]

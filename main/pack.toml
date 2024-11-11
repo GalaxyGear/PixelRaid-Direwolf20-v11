@@ -1,12 +1,12 @@
 name = "PXR Direwolf20 v11"
 author = "PixelRaid Development Team"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d11fac9ed20a8c99c02334dfa67872a28acb970839ed4a2a8b59219b9cba6c48"
+hash = "8311f05647988ee883e9951389bae4538104bf28d44215b468aa485184ba74ba"
 
 [versions]
 minecraft = "1.21.1"

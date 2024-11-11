@@ -3,11 +3,6 @@ filename = "eventslib-1.0.55.jar"
 side = "both"
 
 [download]
+url = "https://files.pixelraid.net/eventslib-1.0.55.jar"
 hash-format = "sha1"
 hash = "9d2bd42f3aa72db2e49cb8699ce57f809f87815f"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5813915
-project-id = 1122002

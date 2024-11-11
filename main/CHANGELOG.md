@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/GalaxyGear-Computer-Solutions/PixelRaid-Direwolf20-v11/compare/v1.0.1...v1.0.2) (2024-11-11)
+
+
+### Miscellaneous Chores
+
+* release 1.0.2 ([3a089d5](https://github.com/GalaxyGear-Computer-Solutions/PixelRaid-Direwolf20-v11/commit/3a089d5a4b5d6d1e1faf30af8d4bb8eb121fb010))
+
 ## [1.0.1](https://github.com/GalaxyGear-Computer-Solutions/PixelRaid-Direwolf20-v11/compare/v1.0.0...v1.0.1) (2024-11-11)
 
 

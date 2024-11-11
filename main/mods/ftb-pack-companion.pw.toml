@@ -3,11 +3,6 @@ filename = "ftb-pack-companion-21.1.0-beta.1+mc1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://files.pixelraid.net/ftb-pack-companion-21.1.0-beta.1+mc1.21.1.jar"
 hash-format = "sha1"
 hash = "55e1f148ed38388abbadcdcde155ee36603c8ae3"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5720424
-project-id = 693963

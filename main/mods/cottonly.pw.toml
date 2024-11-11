@@ -3,11 +3,6 @@ filename = "cottonly-neo-0.16.4.jar"
 side = "both"
 
 [download]
+url = "https://files.pixelraid.net/cottonly-neo-0.16.4.jar"
 hash-format = "sha1"
 hash = "be275443a19216a5e13b388f072d37845d27c6f1"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5844817
-project-id = 515461

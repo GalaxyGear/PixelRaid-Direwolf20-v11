@@ -3,11 +3,6 @@ filename = "mekanism_unleashed-1.21-0.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b8f78575d107c43ff616b044b1403f9661d9ef75"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5615530
-project-id = 1072209
+url = "https://files.pixelraid.net/mekanism_unleashed-1.21-0.2.1.jar"
+hash-format = "sha256"
+hash = "4405c51fe2e0e925ab6a9a77bcfedfac9813b5c7455f48fb8a230d0ec2c62c8a"

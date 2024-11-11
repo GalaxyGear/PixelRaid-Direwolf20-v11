@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "d66cb0cf9661502ca3aa96898f12e771c7925846af6dd80718e0a31a5f6c0f3e"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 

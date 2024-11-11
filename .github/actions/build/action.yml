@@ -9,7 +9,7 @@ inputs:
     required: true
   build-curse:
     description: "Set to 'true' to build the CurseForge .zip file"
-    required: false
+    required: true
   modpack:
     description: "Path to the modpack directory"
     required: false

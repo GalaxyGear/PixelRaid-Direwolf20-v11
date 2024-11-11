@@ -1,13 +1,13 @@
 name = "Entangled"
-filename = "entangled-1.3.19a-neoforge-mc1.21.jar"
+filename = "entangled-1.3.20-neoforge-mc1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2b508157208ebf9a4d20ee46cbfd34ad431fa807"
+hash = "93fa0634e7a0c0680a1a3dc4177ddf752921b0b2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5791357
+file-id = 5885929
 project-id = 301034

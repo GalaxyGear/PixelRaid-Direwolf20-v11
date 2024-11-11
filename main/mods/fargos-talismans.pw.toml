@@ -1,13 +1,13 @@
 name = "Fargo's Talismans"
-filename = "fargostalismans-2.1.7.jar"
+filename = "fargostalismans-1.21-2.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9fe33a4ac8c45e5e7dcab09fe9e187347e68bbb7"
+hash = "d302c17f143310e7cbb0c541e0ea7443e453cc2f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5875644
+file-id = 5890408
 project-id = 950292

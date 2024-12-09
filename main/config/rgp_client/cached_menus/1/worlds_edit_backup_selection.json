@@ -205,3 +205,25 @@
     }
   ]
 }
+: -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_edit_world_selection",
+        "pass_storage": true
+      }
+    }
+  ]
+}
+: -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_edit_world_selection",
+        "pass_storage": true
+      }
+    }
+  ]
+}

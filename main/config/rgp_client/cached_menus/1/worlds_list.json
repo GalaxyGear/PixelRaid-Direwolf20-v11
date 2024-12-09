@@ -535,3 +535,61 @@
     }
   ]
 }
+       "on_complete": {
+            "action": "open_screen",
+            "id": "worlds_list"
+          }
+        }
+      }
+    },
+    {
+      "type": "simple_button",
+      "id": "back",
+      "text": {
+        "translate": "gui.back"
+      },
+      "options": {
+        "width": 100,
+        "height": 20
+      },
+      "position": {
+        "x": 105,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "title"
+      }
+    }
+  ]
+}
+       "on_complete": {
+            "action": "open_screen",
+            "id": "worlds_list"
+          }
+        }
+      }
+    },
+    {
+      "type": "simple_button",
+      "id": "back",
+      "text": {
+        "translate": "gui.back"
+      },
+      "options": {
+        "width": 100,
+        "height": 20
+      },
+      "position": {
+        "x": 105,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "title"
+      }
+    }
+  ]
+}

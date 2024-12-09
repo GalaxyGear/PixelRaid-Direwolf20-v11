@@ -215,3 +215,27 @@
     }
   ]
 }
+: 0,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_configuration",
+        "pass_storage": true
+      }
+    }
+  ]
+}
+: 0,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_configuration",
+        "pass_storage": true
+      }
+    }
+  ]
+}

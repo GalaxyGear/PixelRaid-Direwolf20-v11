@@ -6,12 +6,8 @@
   "logState": true,
   "buttons": [
     {
-      "label": "PixelRaid Discord",
-      "url": "https://discord.gg/Hqkt9rf9yT"
-    },
-    {
-      "label": "Modpack Download",
-      "url": "https://www.curseforge.com/minecraft/modpacks/pixelraid-dw-1-21"
+      "label": "Download the FTB App",
+      "url": "https://go.ftb.team/app"
     }
   ]
 }

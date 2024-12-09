@@ -183,3 +183,23 @@
     }
   ]
 }
+bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_creation_simple_checkout",
+        "pass_storage": true
+      }
+    }
+  ]
+}
+bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_creation_simple_checkout",
+        "pass_storage": true
+      }
+    }
+  ]
+}

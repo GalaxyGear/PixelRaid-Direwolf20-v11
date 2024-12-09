@@ -605,3 +605,73 @@
     }
   ]
 }
+ }
+        }
+      ],
+      "options": {
+        "width": 98,
+        "height": 160
+      },
+      "position": {
+        "x": 105,
+        "y": 0,
+        "pivot": "center"
+      }
+    },
+    {
+      "type": "simple_button",
+      "id": "back",
+      "text": {
+        "translate": "gui.back"
+      },
+      "options": {
+        "width": 200,
+        "height": 20
+      },
+      "position": {
+        "x": 0,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "$parentScreen"
+      }
+    }
+  ]
+}
+ }
+        }
+      ],
+      "options": {
+        "width": 98,
+        "height": 160
+      },
+      "position": {
+        "x": 105,
+        "y": 0,
+        "pivot": "center"
+      }
+    },
+    {
+      "type": "simple_button",
+      "id": "back",
+      "text": {
+        "translate": "gui.back"
+      },
+      "options": {
+        "width": 200,
+        "height": 20
+      },
+      "position": {
+        "x": 0,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "$parentScreen"
+      }
+    }
+  ]
+}

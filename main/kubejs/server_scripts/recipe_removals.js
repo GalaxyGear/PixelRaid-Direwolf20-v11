@@ -10,7 +10,8 @@ const recipes_to_remove = [
     "comforts:sleeping_bag_black",
     "integrateddynamics:smelting/menril_log_coal",
     "integrateddynamics:smelting/menril_log_filled_coal",
-    "mekanism:compat/ae2/certus_quartz_dust_to_silicon"
+    "mekanism:compat/ae2/certus_quartz_dust_to_silicon",
+    "xycraft_machines:extractor/resin"
 ]
 
 const unificationRemovals = [

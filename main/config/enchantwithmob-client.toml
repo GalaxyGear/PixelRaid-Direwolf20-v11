@@ -5,3 +5,9 @@
 "Disable Aura Render" = false
 #Enable Old Style Animation. [true / false]
 "Old Style Animation" = false
+# Default: 20
+# Range: 0 ~ 1000
+"Show Enchanted Mob Hud X Position" = 20
+# Default: 50
+# Range: 0 ~ 1000
+"Show Enchanted Mob Hud Y Position" = 50

@@ -13,6 +13,10 @@
 	oversize_interface_multiplier = 16
 	#Allow Crystal Assembler to do processor inscriber recipes
 	enable_crystal_assembler_inscribe_processors = true
+	#The max size of Assembler Matrix
+	# Default: 6
+	# Range: 3 ~ 16
+	assembler_matrix_max_size = 6
 
 [item]
 	#ME Infinity Cell idle energy cost (unit: AE/t)

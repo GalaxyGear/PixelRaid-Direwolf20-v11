@@ -395,3 +395,45 @@
     }
   ]
 }
+": "back",
+      "text": {
+        "translate": "gui.back"
+      },
+      "options": {
+        "width": 74,
+        "height": 20
+      },
+      "position": {
+        "x": 118,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_configuration",
+        "pass_storage": true
+      }
+    }
+  ]
+}
+": "back",
+      "text": {
+        "translate": "gui.back"
+      },
+      "options": {
+        "width": 74,
+        "height": 20
+      },
+      "position": {
+        "x": 118,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_configuration",
+        "pass_storage": true
+      }
+    }
+  ]
+}

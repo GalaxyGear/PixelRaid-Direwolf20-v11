@@ -218,3 +218,29 @@
     }
   ]
 }
+xtures/gui/ftb_worlds_logo.png",
+      "options": {
+        "width": 112,
+        "height": 56
+      },
+      "position": {
+        "x": 0,
+        "y": -6,
+        "pivot": "top_center"
+      }
+    }
+  ]
+}
+xtures/gui/ftb_worlds_logo.png",
+      "options": {
+        "width": 112,
+        "height": 56
+      },
+      "position": {
+        "x": 0,
+        "y": -6,
+        "pivot": "top_center"
+      }
+    }
+  ]
+}

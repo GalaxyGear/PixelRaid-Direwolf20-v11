@@ -1,8 +1,13 @@
 name = "Useful Slime (NeoForge/Fabric)"
-filename = "UsefulSlime-neoforge-1.21-1.11.0.jar"
+filename = "UsefulSlime-neoforge-1.21-1.12.0.jar"
 side = "both"
 
 [download]
-url = "https://files.pixelraid.net/UsefulSlime-neoforge-1.21-1.11.0.jar"
 hash-format = "sha1"
-hash = "192c4bd00501ba2ef907d5536df147a3848a06a1"
+hash = "b0a68aa2d8e0ac63f010f21eed0031c0a7a9cef5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5937423
+project-id = 417702

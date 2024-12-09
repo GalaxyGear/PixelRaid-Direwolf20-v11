@@ -1,1 +1,13 @@
-{"id":126,"name":"FTB Presents Direwolf20 1.21","type":"Release","version":{"id":12599,"name":"1.4.1","type":"release"}}
+{
+  "id": 126,
+  "name": "FTB Presents Direwolf20 1.21",
+  "uid": "5GP1ihXIULa2",
+  "slug": "ftb-presents-direwolf20-121",
+  "type": "release",
+  "version": {
+    "id": 100007,
+    "uid": "gS2UAKYvv6xj",
+    "name": "1.7.0",
+    "type": "release"
+  }
+}

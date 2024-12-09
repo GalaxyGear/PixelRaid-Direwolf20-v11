@@ -181,3 +181,25 @@
     }
   ]
 }
+   "x": 0,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_list"
+      }
+    }
+  ]
+}
+   "x": 0,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_list"
+      }
+    }
+  ]
+}

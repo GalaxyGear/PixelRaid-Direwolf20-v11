@@ -142,3 +142,19 @@
     }
   ]
 }
+back": {
+        "action": "open_screen",
+        "id": "worlds_edit_world_selection",
+        "pass_storage": true
+      }
+    }
+  ]
+}
+back": {
+        "action": "open_screen",
+        "id": "worlds_edit_world_selection",
+        "pass_storage": true
+      }
+    }
+  ]
+}

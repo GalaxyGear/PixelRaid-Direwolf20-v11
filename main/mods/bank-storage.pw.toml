@@ -1,13 +1,13 @@
 name = "Bank Storage"
-filename = "bankstorage-1.4.2+1.21.jar"
+filename = "bankstorage-1.4.3+1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7886d5db2b12d55ad3352cf41f7c55f50ac4b53c"
+hash = "0d5cba461dafd818be2643beb971582a04168300"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5798040
+file-id = 5936898
 project-id = 916710

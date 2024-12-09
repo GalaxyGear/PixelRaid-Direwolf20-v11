@@ -71,4 +71,22 @@ ServerEvents.recipes((event) => {
 
     //Adding a Stonecutting Recipe to convert Meka's Steel blocks into Stellaris Steel Blocks
     event.stonecutting('stellaris:steel_block', '#c:storage_blocks/steel')
+
+    // PneumaticCraft Crude Oil to fuel
+    event.custom({
+        "type": "stellaris:fuel_refinery",
+        "isFluidMB": true,
+        "energy": 10,
+        "ingredient": {
+            "fluid": "pneumaticcraft:oil",
+            "id": "pneumaticcraft:oil",
+            "amount": 1
+        },
+        "result": {
+            "fluid": "stellaris:fuel",
+            "id": "stellaris:fuel",
+            "amount": 1
+        }
+    });
+
 });

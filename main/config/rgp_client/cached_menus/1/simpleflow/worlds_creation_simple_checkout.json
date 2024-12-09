@@ -277,3 +277,33 @@
     }
   ]
 }
+     "height": 20
+      },
+      "position": {
+        "x": 0,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "$checkoutParentScreen",
+        "pass_storage": true
+      }
+    }
+  ]
+}
+     "height": 20
+      },
+      "position": {
+        "x": 0,
+        "y": -10,
+        "pivot": "bottom_center"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "$checkoutParentScreen",
+        "pass_storage": true
+      }
+    }
+  ]
+}

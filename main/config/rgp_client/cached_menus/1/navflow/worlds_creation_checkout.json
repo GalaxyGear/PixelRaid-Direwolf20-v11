@@ -247,3 +247,31 @@
     }
   ]
 }
+
+      "icon": "rgp_client:textures/gui/ftb_worlds_logo.png",
+      "options": {
+        "width": 112,
+        "height": 56
+      },
+      "position": {
+        "x": 0,
+        "y": -6,
+        "pivot": "top_center"
+      }
+    }
+  ]
+}
+
+      "icon": "rgp_client:textures/gui/ftb_worlds_logo.png",
+      "options": {
+        "width": 112,
+        "height": 56
+      },
+      "position": {
+        "x": 0,
+        "y": -6,
+        "pivot": "top_center"
+      }
+    }
+  ]
+}
